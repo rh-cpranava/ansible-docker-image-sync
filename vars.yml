@@ -8,7 +8,6 @@ src_namespace:
     - 'ocp'
 dest_namespace: 'ocp-output'
 index_image: registry.redhat.io/redhat/redhat-operator-index
-var_prune: openshift-pipelines-operator-rh
 src_registry_username: register-adm
 src_registry_password: redhat
 dest_registry_username: register-adm
